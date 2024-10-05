@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# reactjs
+ReactJS is a popular JavaScript library for building user interfaces. It allows developers to create reusable UI components and manage the view layer of web applications efficiently. With its virtual DOM feature, React optimizes rendering and enhances performance, making it a top choice for modern web development. 🌟
+>>>>>>> e858888378d536b1f3b8acdef688d1ad87cf66c9
