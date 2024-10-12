@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(0, 0, 0);
+}
+.container{
+  padding: 7%;
+ 
+}
+.header{
+  display: flex;
+  gap: 16px;
+  background-color: grey;
+  padding: 7rem;
+  
+
+}
+.header input{
+  padding: 0.8rem 1.5rem;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.header select{
+  padding: 0 1rem;
+  border-radius: 10px;
+}
+.block{
+  display: block;
+  font-size: 25px;
+  margin-top: 1rem;
+}
